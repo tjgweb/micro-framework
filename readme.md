@@ -3,11 +3,9 @@ Este é um micro framework MVC em PHP, construído como execício do conteúdo d
 
 O intúito do curso é dar uma base mais sólida e exclarecer os conceitos e o funcionamento do ciclo de vida de uma aplicação web seguindo padrões MVC. Depois deste curso, o aluno entenderá melhor o conteúdo de outros cursos oferecidos na internet de frameworks como Laravel, Zend, CakePHP, etc.
 
-###Instalação:
-#####Através do composer: <br>
-```
-composer create-project tjg/microframework nome_projeto
-```
+### Instalação:
+##### Através do composer:
+`composer create-project tjg/microframework nome_projeto`
 
 
 ### License
